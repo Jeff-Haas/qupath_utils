@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Python installation
+tagline:
+description: 
 ---
 
 - Install Python:
