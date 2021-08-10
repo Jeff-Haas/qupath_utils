@@ -1,8 +1,6 @@
-## Simple site: Easy websites with GitHub pages
+## QuPath Utilities
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using Markdown and git.
-
+[QuPath Utilities](https://jeff-haas.github.io/qupath_utils/) is a collection of useful tools for QuPath.
 
 
 ---
