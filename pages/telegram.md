@@ -19,7 +19,7 @@ There are a lot of steps here, but they go really quickly.
 
 - [Python Installation](python_install.html)
 - [Set up Telegram Messenger on your computer](telegram_setup.html)
-- [Configure Python](python_install.html)
+- [Configure Python](python_config.html)
 - [Test - Send a message](test_message.html)
 - [Telegram smartphone app](telegram_app.html)
 - [Python script](python_script.html)
