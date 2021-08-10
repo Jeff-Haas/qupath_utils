@@ -19,3 +19,6 @@ print("Alert sent")
 ```
 - To customize the message sent to Telegram, edit the telegram_send.send line.
 - The "Alert sent" line will be shown in the QuPath script window.
+
+### Next:
+- [QuPath Groovy script](groovy_script.html)
