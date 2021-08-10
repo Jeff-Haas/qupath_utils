@@ -2,7 +2,6 @@
 layout: page
 title: Telegram Messenger alerts
 tagline: Notifications when a script is done
-description: Overview of construction of a website with GitHub Pages
 ---
 
 I've got a 3D printer and use a Raspberry Pi, running Octoprint, to manage it.  One of the more useful plug-ins for Octoprint is a Telegram alert module, which sends you an alert when your print is done.  This is like QuPath running a long script, so I've adapted the concept.
