@@ -20,3 +20,6 @@ For Macintosh, I need advice from a Mac user.
 
 ### Next: 
 - [Set up Telegram Messenger on your computer](telegram_setup.html)
+
+##### Back to top:
+- [Telegram Messenger](telegram.html)
