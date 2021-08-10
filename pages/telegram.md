@@ -5,7 +5,7 @@ tagline: Notifications when a script is done
 description: 
 ---
 
-This shows you how to set up Telegram Messenger to notify you when a QuPath script is done.  I have found that Telegram is much quicker to send messages than email, and once this is set up, the amount of code needed is very minimal.
+This shows you how to set up Telegram Messenger to alert you when a QuPath script is done.  I have found that Telegram is much quicker to send messages than email, and once this is set up, the amount of code needed is very minimal.
 
 There are a lot of steps here, but they go really quickly.
 
