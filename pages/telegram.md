@@ -45,11 +45,15 @@ Now it's time to set up Python on the computer, so it can talk to Telegram.
 
 
 Then copy and paste this line into the Command Prompt, and hit enter:
+
 pip install telegram-send
+
 This will tell Python to install the Telegram sender software.
 
-Then copy and paste this line into the Command Prompt, and hit enter:
+Copy and paste this line into the Command Prompt, and hit enter:
+
 telegram-send --configure
+
 This tells Python to configure the Telegram sender.
 
 
