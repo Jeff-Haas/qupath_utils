@@ -16,4 +16,6 @@ cmd.waitForOrKill(1000)
 println cmd.text
 ```
 
-When you want an alert sent, paste this at the end of your QuPath script.
+- Edit the line which points to where you saved the Python script, to point to its location on your computer.
+<br>
+When you want an alert sent, paste this code at the end of your QuPath script.
