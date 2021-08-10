@@ -24,3 +24,6 @@ You've set up your Telegram account and added an auto-responding "bot" to it.
 
 ### Next:
 - [Configure Python](python_config.html)
+
+##### Back to top:
+- [Telegram Messenger](telegram.html)
