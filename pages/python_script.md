@@ -3,7 +3,10 @@ layout: page
 title: Python script
 ---
 
-Copy the following Python script into a text editor, and save it as `qupath_telegram_alert.py`
+Copy the following Python script into a text editor, and save it as 
+`qupath_telegram_alert.py`
+
+
 
 `# Telegram notifier - Python section`
 `# Sends alert message to your Telegram account.`
