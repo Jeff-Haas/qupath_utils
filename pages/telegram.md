@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Telegram Messenger alerts
-tagline: Notifications when a script is done
+tagline: Easy, fast alerts
 description: 
 ---
 
