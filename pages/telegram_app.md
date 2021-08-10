@@ -11,3 +11,6 @@ title: Add Telegram to your smartphone
 
 
 Any message sent to your new bot will show up both in the app on your computer and on your phone.  You don't need to have the version on your computer running, you can just have the app on your phone.
+
+### Next:
+- [Python script](python_script.html)
