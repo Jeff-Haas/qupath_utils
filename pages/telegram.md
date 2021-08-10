@@ -9,7 +9,8 @@ I've got a 3D printer and use a Raspberry Pi, running Octoprint, to manage it.  
 There are a lot of steps here, but they go really quickly.
 
 - Install Python:
-[Python](https://www.python.org/)
+
+    [Python](https://www.python.org/)
 
 Click "Downloads" and pick the version for your machine.
 
@@ -24,11 +25,11 @@ For Macintosh, I need advice from a Mac user.
 
 - Install Telegram on your computer and set up an account.
 
-[Telegram Messenger](https://telegram.org/)
+    [Telegram Messenger](https://telegram.org/)
 
 - Configure Telegram:
 Click this link to access the Telegram "BotFather", which is their utility to configure automatic responses, or "bots":
-[BotFather](https://telegram.me/BotFather)
+    [BotFather](https://telegram.me/BotFather)
 
 It will open Telegram on your computer, to the BotFather account.
 
