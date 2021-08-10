@@ -20,3 +20,5 @@ Press Enter again and you should see "Wow that was easy!" pop up as a message in
 
 This shows that Python is now configured to send messages to Telegram.
 
+### Next:
+- [Telegram smartphone app](telegram_app.html)
