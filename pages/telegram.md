@@ -9,7 +9,8 @@ I've got a 3D printer and use a Raspberry Pi, running Octoprint, to manage it.  
 There are a lot of steps here, but they go really quickly.
 
 - Install Python:
-Go to [Python] (https://www.python.org/)
+Go to [Python](https://www.python.org/)
+
 Click "Downloads" and pick the version for your machine.
 
 - Add Python to your computer's shell path.  This lets you run Python from any folder on your computer, so QuPath can call it from where it is installed.
@@ -22,11 +23,11 @@ For Macintosh, I need advice from a Mac user.
 
 
 - Install Telegram on your computer and set up an account.
-[Telegram Messenger] (https://telegram.org/)
+[Telegram Messenger](https://telegram.org/)
 
 - Configure Telegram:
 Click this link to access the Telegram "BotFather", which is their utility to configure automatic responses, or "bots":
-[BotFather] (https://telegram.me/BotFather)
+[BotFather](https://telegram.me/BotFather)
 It will open Telegram on your computer, to the BotFather account.
 
 - Send the message "/newbot" (no quotes) to BotFather by clicking Start at the bottom of the window, and follow the instructions that come back.  You will answer two questions (naming your bot) and then it will display a bunch of text.  I suggest you copy the block of text into a document and save it, it has your token to access the Telegram API.
@@ -85,5 +86,5 @@ Python is now configured to send messages to Telegram.
 
 Acknowledgment
 I started with this post on Medium:
-[How to write a Telegram bot] (https://medium.com/@robertbracco1/how-to-write-a-telegram-bot-to-send-messages-with-python-bcdf45d0a580)
+[How to write a Telegram bot](https://medium.com/@robertbracco1/how-to-write-a-telegram-bot-to-send-messages-with-python-bcdf45d0a580)
 However, since the post was written, there have been a few changes to the steps involved, and I've also added specific info for QuPath users.
