@@ -7,7 +7,7 @@ description:
 
 - Install Python:
 
-[Python](https://www.python.org/)
+[Python website](https://www.python.org/)
 
 Click "Downloads" and pick the version for your machine.
 
