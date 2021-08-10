@@ -19,3 +19,6 @@ println cmd.text
 
 - Edit the AlertInfo line (which indicates the location of the Python script) to point to its location on your computer.
 - When you want an alert sent, paste this code at the end of your QuPath script.
+
+##### Back to top:
+- [Telegram Messenger](telegram.html)
