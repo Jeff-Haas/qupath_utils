@@ -6,7 +6,7 @@ title: Python script
 Copy the following Python script into a text editor, and save it as 
 `qupath_telegram_alert.py`
 
-- I suggest you set up a folder just for QuPath Python scripts.
+- I suggest you set up a folder just for QuPath scripts.
 
 ```
 # Telegram notifier - Python section
