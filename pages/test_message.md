@@ -18,5 +18,5 @@ and press Enter.
 
 Press Enter again and you should see "Wow that was easy!" pop up as a message in the Telegram app.
 
-Python is now configured to send messages to Telegram.
+This shows that Python is now configured to send messages to Telegram.
 
