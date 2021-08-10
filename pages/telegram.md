@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Telegram Messenger alerts for QuPath
+title: Telegram Messenger alerts
 tagline: Notifications when a script is done
 description: Overview of construction of a website with GitHub Pages
 ---
