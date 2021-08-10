@@ -16,3 +16,5 @@ import telegram_send
 telegram_send.send(messages=["QuPath workstation 1 - Task complete"])
 print("Alert sent")
 ```
+- Customize the message sent to Telegram by editing the telegram_send.send line.
+- The "Alert sent" line will be shown in the QuPath script window.
