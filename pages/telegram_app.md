@@ -14,3 +14,6 @@ Any message sent to your new bot will show up both in the app on your computer a
 
 ### Next:
 - [Python script](python_script.html)
+
+##### Back to top:
+- [Telegram Messenger](telegram.html)
