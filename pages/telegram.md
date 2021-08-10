@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Telegram Messenger alerts
+title: Telegram Messenger
 tagline: Easy, fast alerts
 description: 
 ---
