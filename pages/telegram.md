@@ -15,7 +15,7 @@ Click "Downloads" and pick the version for your machine.
 - Add Python to your computer's shell path.  This lets you run Python from any folder on your computer, so QuPath can call it from where it is installed.
 
 For Windows, select the box at the bottom of the install dialog, then click "Install Now".
-[screenshot]
+![image](https://user-images.githubusercontent.com/27331078/128922292-71c1cb76-f904-4126-bb32-7246262d07d3.png)
 
 For Macintosh, I need advice from a Mac user.
 
