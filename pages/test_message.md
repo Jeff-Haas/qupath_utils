@@ -22,3 +22,6 @@ This shows that Python is now configured to send messages to Telegram.
 
 ### Next:
 - [Telegram smartphone app](telegram_app.html)
+
+##### Back to top:
+- [Telegram Messenger](telegram.html)
