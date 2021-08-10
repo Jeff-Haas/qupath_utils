@@ -5,9 +5,9 @@ title: Configuring Python
 
 Now it's time to set up Python on the computer, so it can talk to Telegram.
 
-- Open a Command Prompt (this is not the Python command prompt.) For Windows 10, click the magnifying glass on the taskbar, type "Command Prompt" and press enter.
+- Open a Command Prompt (the system command prompt, not the Python command prompt.) For Windows 10, click the magnifying glass on the taskbar, type "Command Prompt" and press Enter to get this window:
 
-![image](https://user-images.githubusercontent.com/27331078/128935265-8608e421-108a-41b4-9df0-241b3b58e71d.png)
+![image](https://user-images.githubusercontent.com/27331078/128942296-b9db3ca2-1e0f-417b-97b9-201880627223.png)
 
 
 Then copy and paste this line into the Command Prompt, and hit enter:
@@ -16,7 +16,7 @@ Then copy and paste this line into the Command Prompt, and hit enter:
 
 This will tell Python to install the Telegram sender software.
 
-Copy and paste this line into the Command Prompt, and hit enter:
+When that's done, copy and paste this line into the Command Prompt, and hit enter:
 
 `telegram-send --configure`
 
@@ -30,6 +30,7 @@ telegram-send will give you a password to send to your new bot in the Telegram a
 
 In the Command Prompt window, Telegram will give you a URL.  Copy the URL and paste it into a browser address bar.  It opens your Telegram app to the right window to talk to the new bot.  Click the Start button to talk to the bot, and send it the password from the Command Prompt window.
 
-You should see a reply in the Command Prompt window that telegram-send is ready for use.  The Telegram app should also show that it's ready for use.
+- You should see a reply in the Command Prompt window that telegram-send is ready for use.
+- The Telegram app should also show a message from the bot that it's ready for use.
 
 You're nearly done.  Now to test it!
