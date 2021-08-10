@@ -33,7 +33,7 @@ Click this link to access the Telegram "BotFather", which is their utility to co
 
 It will open Telegram on your computer, to the BotFather account.
 
-- Send the message "/newbot" (no quotes) to BotFather by clicking Start at the bottom of the window, and follow the instructions that come back.  You will answer two questions (naming your bot) and then it will display a bunch of text.  I suggest you copy the block of text into a document and save it, it has your token to access the Telegram API.
+- Send the message `/newbot` to BotFather by clicking Start at the bottom of the window, and follow the instructions that come back.  You will answer two questions (naming your bot) and then it will display a bunch of text.  I suggest you copy the block of text into a document and save it, it has your token to access the Telegram API.
 
 You have set up your Telegram account and added an auto-responding "bot" to it.
 
@@ -46,13 +46,13 @@ Now it's time to set up Python on the computer, so it can talk to Telegram.
 
 Then copy and paste this line into the Command Prompt, and hit enter:
 
-pip install telegram-send
+`pip install telegram-send`
 
 This will tell Python to install the Telegram sender software.
 
 Copy and paste this line into the Command Prompt, and hit enter:
 
-telegram-send --configure
+`telegram-send --configure`
 
 This tells Python to configure the Telegram sender.
 
@@ -73,10 +73,11 @@ You're nearly done.  Now to test it!
 Open a Python command prompt window - this is different than the standard Windows Command Prompt!
 [screenshot of Python window]
 
-Paste the following test message into the Python window:
+Paste the following test messages into the Python window:
 
-import telegram_send
-telegram_send.send(messages=["Wow that was easy!"])
+`import telegram_send`
+
+`telegram_send.send(messages=["Wow that was easy!"])`
 
 When you press Enter, you should see "Wow that was easy!" pop up as a message in the Telegram app.
 
