@@ -6,7 +6,8 @@ title: Configuring Python
 Now it's time to set up Python on the computer, so it can talk to Telegram.
 
 - Open a Command Prompt (this is not the Python command prompt.) For Windows 10, click the magnifying glass on the taskbar, type "Command Prompt" and press enter.
-[screenshot]
+
+![image](https://user-images.githubusercontent.com/27331078/128935265-8608e421-108a-41b4-9df0-241b3b58e71d.png)
 
 
 Then copy and paste this line into the Command Prompt, and hit enter:
