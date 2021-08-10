@@ -4,7 +4,9 @@ title: Send a test message
 ---
 
 Open a Python command prompt window - this is different than the standard Windows Command Prompt!
-[screenshot of Python window]
+- On Windows 10, open the Start menu and type "python" to find Python. <br>
+
+![image](https://user-images.githubusercontent.com/27331078/128942559-518b9c17-d23d-4ab0-9880-424da601d461.png)
 
 Paste the following test messages into the Python window:
 
