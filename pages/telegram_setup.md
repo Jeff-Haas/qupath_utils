@@ -14,7 +14,9 @@ Click this link to access the Telegram "BotFather", which is their utility to co
 
 It will open Telegram on your computer, to the BotFather account.
 
-- Send the message `/newbot` to BotFather by clicking Start at the bottom of the window, and follow the instructions that come back.  
+- Send the message 
+`/newbot` <br/>
+to BotFather by clicking Start at the bottom of the window, and follow the instructions that come back.  
 
 You will answer two questions (naming your bot) and then it will display a bunch of text.  I suggest you copy the block of text into a document and save it, it has your token to access the Telegram API.
 
