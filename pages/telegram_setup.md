@@ -14,7 +14,7 @@ Click this link to access the Telegram "BotFather", which is their utility to co
 
 It will open Telegram on your computer, to the BotFather account.
 
-- Send the message 
+- Send the message: <br> 
 `/newbot` <br/>
 to BotFather by clicking Start at the bottom of the window, and follow the instructions that come back.  
 
