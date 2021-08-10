@@ -21,3 +21,6 @@ to BotFather by clicking Start at the bottom of the window, and follow the instr
 You will answer two questions (naming your bot) and then it will display a bunch of text.  I suggest you copy the block of text into a document and save it, it has your token to access the Telegram API.
 
 You've set up your Telegram account and added an auto-responding "bot" to it.
+
+### Next:
+- [Configure Python](python_config.html)
