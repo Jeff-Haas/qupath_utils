@@ -34,3 +34,6 @@ In the Command Prompt window, Telegram will give you a URL.  Copy the URL and pa
 - The Telegram app should also show a message from the bot that it's ready for use.
 
 You're nearly done.  Now to test it!
+
+### Next:
+- [Test - Send a message](test_message.html)
