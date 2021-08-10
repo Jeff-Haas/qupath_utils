@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Telegram computer setup
+title: Telegram Messenger computer setup
 ---
 
 - Install Telegram on your computer and set up an account.
