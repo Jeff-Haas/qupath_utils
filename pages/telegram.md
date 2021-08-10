@@ -23,6 +23,7 @@ For Macintosh, I need advice from a Mac user.
 
 
 - Install Telegram on your computer and set up an account.
+
 [Telegram Messenger](https://telegram.org/)
 
 - Configure Telegram:
