@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python installation
+title: Python Installation
 tagline:
 description: 
 ---
