@@ -17,9 +17,9 @@ Once this is set up, the only thing you need to do is paste a few lines into the
 ### Setting up
 There are a lot of steps here, but they go really quickly.
 
-- [Python Installation](python_install.html)
 - [Telegram smartphone app](telegram_app.html)
 - [Set up Telegram Messenger on your computer](telegram_setup.html)
+- [Python Installation](python_install.html)
 - [Configure Python](python_config.html)
 - [Test - Send a message](test_message.html)
 - [Python script](python_script.html)
