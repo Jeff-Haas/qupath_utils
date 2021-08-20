@@ -25,7 +25,7 @@ You will answer two questions (naming your bot) and then it will display a bunch
 You've set up your Telegram account and added an auto-responding "bot" to it.  Any message sent to your new bot will show up both in the app on your computer and on your phone.  You don't need to have the version on your computer running, you can just have the app on your phone.
 
 ### Next:
-- [Configure Python](python_config.html)
+- [Python Installation](python_install.html)
 
 ##### Back to top:
 - [Telegram Messenger](telegram.html)
