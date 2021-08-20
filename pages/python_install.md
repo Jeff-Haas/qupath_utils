@@ -19,7 +19,7 @@ For Windows, tick the box at the bottom of the install dialog, then click "Insta
 For Macintosh, I need advice from a Mac user.
 
 ### Next: 
-- [Set up Telegram Messenger on your computer](telegram_setup.html)
+- [Configure Python](python_config.html)
 
 ##### Back to top:
 - [Telegram Messenger](telegram.html)
